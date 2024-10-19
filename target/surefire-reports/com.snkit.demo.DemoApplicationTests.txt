@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.snkit.demo.DemoApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.552 s -- in com.snkit.demo.DemoApplicationTests
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.403 s -- in com.snkit.demo.DemoApplicationTests
+>>>>>>> 69b80d6e253879a0de414a9a6985887daf5956c7
